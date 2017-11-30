@@ -207,7 +207,7 @@ p {
 .listing {
     margin-top: 15px;
     background-color: #f6f6f6;
-    padding: 15px 50px;
+    padding: 15px 0px;
     min-height: 145px;
     position: relative;
 }
